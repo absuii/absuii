@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=absuii&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile Views](https://komarev.com/ghpvc/?username=absuii&color=blue&style=flat)
