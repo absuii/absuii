@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=absuii&show_icons=true&theme=dark&v=1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=absuii&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
